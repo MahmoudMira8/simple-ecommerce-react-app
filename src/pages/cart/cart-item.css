@@ -1,0 +1,49 @@
+.cart {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.details > div {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.count-handeler input {
+  width: 30px;
+  text-align: center;
+}
+
+.checkout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkout-btns {
+    display: flex;
+}
+
+.continue-shopping-btn{
+  padding: 10px 20px;
+  background-color: #818181;
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+
+.continue-shopping-btn:hover{
+    background-color: #606060;
+} 
