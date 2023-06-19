@@ -39,3 +39,5 @@ To use the ecommerce application, follow these steps:
 6. The total price of the items in the cart will be displayed on the cart page.
 
 The `useContext` hook is used to manage the state of the cart across multiple components without the need for prop drilling. The `useState` hook is used for managing local component states.
+
+Live Demo: [https://simple-ecommerce-reactjs-app.netlify.app/](https://simple-ecommerce-reactjs-app.netlify.app/)
